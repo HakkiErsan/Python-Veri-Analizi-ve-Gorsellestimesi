@@ -37,6 +37,6 @@ Paralel programlama incelemenmiştir.
 - Bokeh, 
 - Matplotlib, 
 - Lightning, 
-- Sklearn("RandomForest, Linear Regression) kütüphaneleri kullanılmıştır.
+- Sklearn(RandomForest, Linear Regression) kütüphaneleri kullanılmıştır.
 
 
